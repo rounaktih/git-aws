@@ -1,1 +1,3 @@
 hi everyone, welcome to git and github class
+
+hey, this is me working on feature 1
